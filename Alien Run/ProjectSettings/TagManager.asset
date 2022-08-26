@@ -5,14 +5,21 @@ TagManager:
   serializedVersion: 2
   tags:
   - add
+  - blue
+  - Gate
+  - Trap
+  - alienIdle
+  - DisguisedAlien
+  - xRay
+  - finish
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Trap
   - Water
   - UI
-  - 
+  - Player
   - 
   - 
   - 
